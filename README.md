@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3><hr/>
 </br>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -30,15 +30,15 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-  <br>
+  <br><br>
   
-  <h3> 프로젝트 링크</h3>
-  <a href="http://115.85.181.88:8080/" target="_blank"><img src="https://img.shields.io/badge/지능형중고장터 프로젝트-1877F2?style=flat-square&logo=BaNaDa&logoColor=white"/></a>
+  <h3> 프로젝트 링크</h3><hr/>
+  <a href="http://115.85.181.88:8080/" target="_blank"><img src="https://img.shields.io/badge/지능형중고장터 BaNaDa-61DAFB?style=for-the-badge&logo=BaNaDa&logoColor=white"/></a>
 <br><br><br>
   
-![trophy](https://github-profile-trophy.vercel.app/?username=wlsdks)<br>
+![trophy](https://github-profile-trophy.vercel.app/?username=wlsdks)<br><br>
 ![wlsdks's github stats](https://github-readme-stats.vercel.app/api?username=wlsdks&show_icons=true)
-[![wlsdks's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wlsdks&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wlsdks)
+[![wlsdks's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wlsdks&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wlsdks)<br>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwlsdks%2Fhit-counter&count_bg=%23BDC6C5&title_bg=%23868080&icon=airplayvideo.svg&icon_color=%23FDEDED&title=%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false"/></a>
   

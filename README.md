@@ -1,7 +1,7 @@
 
 
 <div align=center> 
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&width=1000&section=header&text=capsule%20render&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&width=1000&section=header&text=Jinan's%20Profile&fontSize=90" />
   <br><br>
   
   <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>

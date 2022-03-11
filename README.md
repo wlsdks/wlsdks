@@ -35,13 +35,13 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br><br>
   
-  <h3> 프로젝트 링크</h3>
+  <h2> 프로젝트 링크</h2>
   <a href="http://115.85.181.88:8080/" target="_blank"><img src="https://img.shields.io/badge/지능형중고장터 BaNaDa-61DAFB?style=for-the-badge&logo=BaNaDa&logoColor=white"/></a>
 <br><br>
 
-  <h3> ✉이메일 주소✉ </h3>
-  <p>Naver: wlsdks12@naver.com</p>
-  gmail: dig04059@gmail.com
+  <h2> ✉이메일 주소✉ </h2>
+  <h4>Naver: wlsdks12@naver.com</h4>
+  <h4>Gmail: dig04059@gmail.com</h4>
   <br><br><br>
   
   

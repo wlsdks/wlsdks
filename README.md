@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="http://115.85.181.88:8080/" target="_blank"><img src="https://img.shields.io/badge/지능형중고장터 프로젝트-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-![trophy](https://github-profile-trophy.vercel.app/?username=wlsdks12@naver.com)
+![trophy](https://github-profile-trophy.vercel.app/?username=wlsdks)
+![wlsdks's github stats](https://github-readme-stats.vercel.app/api?username=wlsdks&show_icons=true)
+[!wlsdks's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wlsdksID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wlsdks)

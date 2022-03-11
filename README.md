@@ -1,8 +1,11 @@
-### Hi there 👋
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3><hr/>
-</br>
+
 <div align=center> 
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&width=1000&section=header&text=capsule%20render&fontSize=90" />
+  <br><br>
+  
+  <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+</br>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
@@ -32,7 +35,7 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br><br>
   
-  <h3> 프로젝트 링크</h3><hr/>
+  <h3> 프로젝트 링크</h3>
   <a href="http://115.85.181.88:8080/" target="_blank"><img src="https://img.shields.io/badge/지능형중고장터 BaNaDa-61DAFB?style=for-the-badge&logo=BaNaDa&logoColor=white"/></a>
 <br><br><br>
   

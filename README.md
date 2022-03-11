@@ -37,7 +37,13 @@
   
   <h3> 프로젝트 링크</h3>
   <a href="http://115.85.181.88:8080/" target="_blank"><img src="https://img.shields.io/badge/지능형중고장터 BaNaDa-61DAFB?style=for-the-badge&logo=BaNaDa&logoColor=white"/></a>
-<br><br><br>
+<br><br>
+
+  <h3> ✉이메일 주소✉ </h3>
+  <p>Naver: wlsdks12@naver.com</p>
+  gmail: dig04059@gmail.com
+  <br><br><br>
+  
   
 ![trophy](https://github-profile-trophy.vercel.app/?username=wlsdks)<br><br>
 ![wlsdks's github stats](https://github-readme-stats.vercel.app/api?username=wlsdks&show_icons=true)

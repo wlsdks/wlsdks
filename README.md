@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>skill</p>
+<h1>Skills</h1>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 <a href="http://115.85.181.88:8080/" target="_blank"><img src="https://img.shields.io/badge/지능형중고장터 프로젝트-1877F2?style=flat-square&logo=BaNaDa&logoColor=white"/></a>

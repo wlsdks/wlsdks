@@ -37,6 +37,7 @@
   
   <h2> 프로젝트 링크</h2>
   <a href="http://115.85.181.88:8080/" target="_blank"><img src="https://img.shields.io/badge/지능형중고장터 BaNaDa-61DAFB?style=for-the-badge&logo=BaNaDa&logoColor=white"/></a>
+  <a href="https://wlsdks.github.io/Team_Project__KIRRIKKIRI/" target="_blank"><img src="https://img.shields.io/badge/MBTI커뮤니티: KIRRIKKIRI -1572B6?style=for-the-badge&logo=BaNaDa&logoColor=white"/></a>
 <br><br>
 
   <h2> ✉이메일 주소✉ </h2>

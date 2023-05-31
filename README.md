@@ -17,7 +17,6 @@
   <br>
   
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <br>
   
@@ -31,11 +30,6 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br><br>
-  
-  <h2> 프로젝트 링크</h2>
-  <a href="http://115.85.181.88:8080/" target="_blank"><img src="https://img.shields.io/badge/지능형중고장터 BaNaDa-61DAFB?style=for-the-badge&logo=BaNaDa&logoColor=white"/></a>
-  <a href="https://wlsdks.github.io/Team_Project__KIRRIKKIRI/" target="_blank"><img src="https://img.shields.io/badge/MBTI커뮤니티: KIRRIKKIRI -1572B6?style=for-the-badge&logo=BaNaDa&logoColor=white"/></a>
-<br><br>
 
   <h2> ✉이메일 주소✉ </h2>
   <h4>Naver: wlsdks12@naver.com</h4>

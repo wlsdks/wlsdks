@@ -5,7 +5,7 @@
 - 소개 페이지 (노션): https://upbeat-willow-06b.notion.site/7ece9e5f602a43f583d7f4cf101e7d69?pvs=4
 <br/>
 
-## 사이드 프로젝트 RECIPIA
+## RECIPIA 소스코드 살펴보기
 
 - 멤버 백엔드 서버: https://github.com/Resipia/RECIPIA_MEMBER
 - 레시피 백엔드 서버: https://github.com/Resipia/RECIPIA_RECIPE

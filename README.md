@@ -20,7 +20,7 @@
 [![wlsdks's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wlsdks&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wlsdks)<br>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=wlsdks&theme=react-dark&bg_color=black&hide_border=true&line=black&color=black" width="94%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=wlsdks&theme=react-dark&bg_color=000000&hide_border=true&line=000000&color=000000" width="94%"/>
 </a>
 
 <br/>

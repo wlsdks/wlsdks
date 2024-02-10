@@ -1,6 +1,4 @@
 ## 사이드 프로젝트 RECIPIA
-**레시피아 서비스의 [레시피 서버]**
-
 - 배포(원스토어): https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000774118
 - 소개 페이지 (노션): https://upbeat-willow-06b.notion.site/7ece9e5f602a43f583d7f4cf101e7d69?pvs=4
 <br/>

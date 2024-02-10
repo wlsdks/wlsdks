@@ -16,7 +16,6 @@
 <br/>
 
 ## 나의 자부심
-![trophy](https://github-profile-trophy.vercel.app/?username=wlsdks)<br><br>
 [![wlsdks's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlsdks)](https://github.com/anuraghazra/github-readme-stats)
 [![wlsdks's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wlsdks&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wlsdks)<br>
 

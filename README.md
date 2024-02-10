@@ -1,4 +1,18 @@
+## 사이드 프로젝트 RECIPIA
+**레시피아 서비스의 [레시피 서버]**
 
+- 배포(원스토어): https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000774118
+- 소개 페이지 (노션): https://upbeat-willow-06b.notion.site/7ece9e5f602a43f583d7f4cf101e7d69?pvs=4
+<br/>
+
+## 사이드 프로젝트 RECIPIA
+
+- 멤버 백엔드 서버: https://github.com/Resipia/RECIPIA_MEMBER
+- 레시피 백엔드 서버: https://github.com/Resipia/RECIPIA_RECIPE
+- 안드로이드: https://github.com/Resipia/RECIPIA_ANDRIOID
+<br/>
+
+## 나의 자부심
 ![trophy](https://github-profile-trophy.vercel.app/?username=wlsdks)<br><br>
 [![wlsdks's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlsdks)](https://github.com/anuraghazra/github-readme-stats)
 [![wlsdks's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wlsdks&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wlsdks)<br>

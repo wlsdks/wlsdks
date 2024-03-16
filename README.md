@@ -4,8 +4,6 @@
 - **배포(원스토어):** https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000774118
 - **소개 페이지 (노션):** https://upbeat-willow-06b.notion.site/7ece9e5f602a43f583d7f4cf101e7d69?pvs=4
 
-![레시피아_인트로](https://github.com/wlsdks/wlsdks/assets/79524077/44a0da43-c2e6-418e-9b52-b7a740746ff5)
-
 <br/>
 
 ## RECIPIA 소스코드 살펴보기

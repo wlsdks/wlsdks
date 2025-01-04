@@ -1,10 +1,21 @@
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/wlsdks"
-  width="1000"
-  height="300"
+  width="980"
+  height="420"
 />
 </a>
+<br/>
+
+<a href="https://git.io/streak-stats">
+  <img 
+    src="https://streak-stats.demolab.com?user=wlsdks&locale=ko" 
+    width="1000"
+    height="200"
+    alt="GitHub Streak" 
+  />
+</a>
+
 <br/>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">

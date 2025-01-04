@@ -1,7 +1,7 @@
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/wlsdks"
-  width="600"
+  width="1000"
   height="300"
 />
 </a>

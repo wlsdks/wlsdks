@@ -1,5 +1,4 @@
 [![Github](https://www.codenary.co.kr/widget/github/api?username=Stark)](https://www.codenary.co.kr/user-profile/detail/Stark?github_ride=true&utm_source=github)
-![java](https://www.codenary.co.kr/widget/github-techstack/api?name=java) ![kotlin](https://www.codenary.co.kr/widget/github-techstack/api?name=kotlin) ![springboot](https://www.codenary.co.kr/widget/github-techstack/api?name=springboot) ![mysql](https://www.codenary.co.kr/widget/github-techstack/api?name=mysql) ![jira](https://www.codenary.co.kr/widget/github-techstack/api?name=jira) ![github](https://www.codenary.co.kr/widget/github-techstack/api?name=github) ![redis](https://www.codenary.co.kr/widget/github-techstack/api?name=redis) ![kafka](https://www.codenary.co.kr/widget/github-techstack/api?name=kafka) ![mongodb](https://www.codenary.co.kr/widget/github-techstack/api?name=mongodb) 
 <table>
   <tr>
     <td>
